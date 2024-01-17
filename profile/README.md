@@ -1,3 +1,3 @@
-# Yet Another Check-in System (YACIS)
+# SwiftEntry
 
-Contains microservices for running YACIS
+Contains code for running SwitfEntry, an easy visitor check-in software for offices.
